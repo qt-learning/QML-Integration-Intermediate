@@ -1,6 +1,6 @@
-# QML Integration Intermediate
+# QML & C++ Integration Intermediate
 
-This is the repo for the QML Integration Intermediate course on Qt Academy.
+This is the repo for the QML & C++ Integration Intermediate course on Qt Academy.
 
 ## Getting Started
 
@@ -33,10 +33,9 @@ If you need additional help, the following resources may be helpful:
 ```
 Copyright (C) 2026 Qt Group.
 SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
-Qt and respective logos are trademarks of The Qt Group.
 ```
 
-This is a QML Integration Intermediate learning project demonstrating how to customize the style of the Qt Quick Controls module.
+This is a QML Integration Intermediate learning project demonstrating how to integrate C++ with QML.
 
 ### Terms and Conditions
 
