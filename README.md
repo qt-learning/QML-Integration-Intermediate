@@ -20,7 +20,7 @@ QMLIntegrationIntermediate_Section4: Example of a C++ class exposed to QML with 
 
 QMLIntegrationIntermediate_Section5: Example of QML_ANONYMOUS. Base class Counters in C++ created as a QML_ANONYMOUS that cannot be referred to in QML. BingoResults class that can be instantiated in QML via QML_ELEMENT inherits properties from the anonymous base class. Tested with Qt 6.7.0 MinGW 64-bit.
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
